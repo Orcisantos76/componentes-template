@@ -1,6 +1,25 @@
 .App {
+  padding: 1px;
+  border: solid 2px red;
   font-family: sans-serif;
   text-align: center;
 }
-
-
+.cabecalho{
+  border: solid blue 2px;
+  padding: 2px;
+  margin-bottom: 1px;  
+  text-align: center;
+}
+.logo{
+  white:10vw;
+  height: 10vh;
+}
+.carros{
+  margin-top: 1px;
+  border: rgb(47, 211, 58) solid 2px;
+}
+.rodape{
+  background: gray;
+  text-align: center;
+  text-decoration: none;
+}
